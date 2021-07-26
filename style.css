@@ -1,0 +1,36 @@
+.intro-img{
+    background: #FFEAF5;
+}
+.ball{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ball-1{
+    width: 15px ;
+    height: 15px;
+    background-color: #F467B2;
+    border-radius: 50%;
+    margin: 10px;
+}
+.ball-2{
+    width: 10px ;
+    height: 10px;
+    background-color: #f467b28f;
+    border-radius: 50%;
+    margin: 10px;
+}
+.ball-3{
+    width: 10px ;
+    height: 10px;
+    background-color: #f467b28f;
+    border-radius: 50%;
+    margin: 10px;
+}
+.ball-4{
+    width: 10px ;
+    height: 10px;
+    background-color: #f467b28f;
+    border-radius: 50%;
+    margin: 10px;
+}
